@@ -1,9 +1,10 @@
 #Credits to TEX 479 for making the project half the size
-
+#Run in editor
 #Lines
 L1 = ""
 L2 = ""
 L3 = ""
+L4 = ""
 #Strings
 S1 = ""
 S2 = ""
@@ -81,4 +82,25 @@ elif L3 == "print.8.":
 elif L3 == "print.9.":
     print(S9)
 elif L3 == "print.10.":
+    print(S0)
+
+if L4 == "print.1.":
+    print(S1)
+elif L4 == "print.2.":
+    print(S2)
+elif L4 == "print.3.":
+    print(S3)
+elif L4 == "print.4.":
+    print(S4)
+elif L4 == "print.5.":
+    print(S5)
+elif L4 == "print.6.":
+    print(S6)
+elif L4 == "print.7.":
+    print(S7)
+elif L4 == "print.8.":
+    print(S8)
+elif L4 == "print.9.":
+    print(S9)
+elif L4 == "print.10.":
     print(S0)
